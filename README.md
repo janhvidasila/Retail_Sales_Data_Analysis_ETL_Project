@@ -1,6 +1,6 @@
 # Retail Sales Data Analysis Project – ETL & BI Pipeline
 
-![Retail Sales Analysis](./ETLdiagram.png)
+<img src="./ETLdiagram.png" alt="ETL Diagram" width="400"/>
 
 ## Overview
 
